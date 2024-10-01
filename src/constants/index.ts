@@ -40,23 +40,24 @@ export const SkillData = [
     height: 80,
   },
 ];
-
+ 
 export const Socials = [
   {
-    name: "Linkdin",
+    name: "LinkedIn",
     src: "/linkdin.svg",
-    
+    href: "https://www.linkedin.com/in/nirma-qureshi-28b91a311" // Link yahan dena hoga
   },
   {
     name: "Facebook",
     src: "/facebook.svg",
+    href: "https://www.facebook.com/" // Link yahan dena hoga
   },
   {
-    name: "Githab",
+    name: "GitHub",
     src: "/githab.svg",
+    href: "https://github.com/NirmaQureshi1234" // Link yahan dena hoga
   },
 ];
-
 
 export const NavLinks = [
   {
