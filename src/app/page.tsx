@@ -20,7 +20,7 @@ export default function Home() {
 
          &quot; Nirma Qureshi, a Web Development graduate from Tech Force Pakistan and currently advancing AI studies at GIAIC. With the successful completion of the TypeScript course and Quarter 1 exam, now focused on mastering Next.js. Bringing a unique pre-medical background, poised to apply expertise in web development and AI to innovative and impactful projects.&quot;
 
-This keeps it professional and concise. Let me know if you&apos;d like any changes! &quot;
+This keeps it professional and concise! &quot;
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
