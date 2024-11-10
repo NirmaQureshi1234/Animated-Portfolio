@@ -9,7 +9,7 @@ export default function Home() {
         style={{ backgroundImage: "url(/gif.gif)" }}
       >
         <div className="pl-20 md:pl-40 pb-56 md:pb-20 flex flex-col gap-5 z-[10] max-w-[700px]">
-        <h1 className="text-[16px] sm:text-[10px] lg:text-[24px] text-white font-semibold w-full">
+        <h1 className="text-[16px] sm:text-[20px] lg:text-[24px] text-white font-semibold w-full">
   Unlock Infinite Possibilities with the Power of
   <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
     {" "}Web Development
