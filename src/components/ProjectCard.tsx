@@ -37,3 +37,11 @@ const ProjectCard = ({ title, image, link }: Props) => {
 };
 
 export default ProjectCard;
+
+
+
+
+
+ 
+
+
