@@ -111,7 +111,7 @@ export const Projects = [
     title: "Agentic AI React App",
     text: "A React application that leverages Agentic AI to enhance user interactions and automate tasks.",
     src: "/project4.png",
-    link: "agentic-ai-react-app-created-by-nirma-qureshi.vercel.app",
+    link: "https://agentic-ai-react-app-created-by-nirma-qureshi.vercel.app",
   },
  
 ];
