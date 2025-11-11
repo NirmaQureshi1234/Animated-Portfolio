@@ -12,15 +12,14 @@ export default function Home() {
         <h1 className="text-[16px] sm:text-[20px] lg:text-[24px] text-white font-semibold w-full">
   Unlock Infinite Possibilities with the Power of
   <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
-    {" "}Web Development
+    {" "} 
+    Full Stack Developer | AI R&D | Creative Technologist
   </span>
 </h1>
  <p className="text-gray-200 hidden md:block">
- &quot; I am &quot; :
+ I am &quot; Nirma Qureshi  &quot; A Full Stack Developer, Product Architect, R&D Specialist with a strong foundation in Next.js, React.js, FastAPI, Python, and modern web technologies. Skilled in API integration, MongoDB, MySQL, and Sanity CMS, with hands-on experience in Product Research & Development and Team Collaboration. Combining a unique pre-medical background with analytical thinking and technical expertise, I design and develop innovative, high-performing, and user-centric web and AI-powered applications, driving impactful solutions in both web development and AI research domains.
 
-         &quot; Nirma Qureshi, a Web Development graduate from Tech Force Pakistan and currently advancing AI studies at GIAIC. With the successful completion of the TypeScript course and Quarter 1 exam, now focused on mastering Next.js. Bringing a unique pre-medical background, poised to apply expertise in web development and AI to innovative and impactful projects.&quot;
-
-This keeps it professional and concise! &quot;
+       
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link

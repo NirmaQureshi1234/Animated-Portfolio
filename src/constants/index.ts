@@ -45,17 +45,17 @@ export const Socials = [
   {
     name: "LinkedIn",
     src: "/linkdin.svg",
-    href: "https://www.linkedin.com/in/nirma-qureshi-28b91a311", // Link yahan dena hoga
+    href: "https://www.linkedin.com/in/nirma-qureshi-28b91a311", 
   },
   {
     name: "Facebook",
     src: "/facebook.svg",
-    href: "https://www.facebook.com/", // Link yahan dena hoga
+    href: "https://www.facebook.com/", 
   },
   {
     name: "GitHub",
     src: "/githab.svg",
-    href: "https://github.com/NirmaQureshi1234", // Link yahan dena hoga
+    href: "https://github.com/NirmaQureshi1234", 
   },
 ];
 
@@ -91,23 +91,27 @@ export const Projects = [
     link: "https://professional-personal-portfolio-responsive-ui.vercel.app",
   },
   {
-    title: "Figma into Nextjs",
-    text: "Figma convert in Nextjs",
-    src: "/project2.png",
-    link: "http://nextjs-class-assignment-5.vercel.app",
+    
+      title: "Smart Room Matching System",
+      text: "Innovista Hackathon Project – Smart Room Matching System",
+      src: "/project5.png",
+      link: "https://roommatcher.netlify.app",
+      altLink: "https://tahasaif3-room-matcher-agent.hf.space"
+  
+  
   },
   
   {
-    title: "Presentation on Next JS",
-    text: "Presentation on NextJs",
+    title: "AI-Powered Financial App",
+    text: "An AI-driven application that provides personalized financial advice and budgeting tools.",
     src: "/project3.png",
-    link: "https://drive.google.com/file/d/1POrDWOhzbhcFcpNDUZVZBoMoDGl-woBr/view?usp=sharing",
+    link: "https://ai-powered-financial-app.vercel.app/",
   },
   {
-    title: "Personal Porfolio Website",
-    text: "Portfolio using Nextjs and Tailwind Css also added humburgher menu using tsx",
-    src: "/projects4.png",
-    link: "http://nextjs-assignment-3-portfolio.vercel.app",
+    title: "Agentic AI React App",
+    text: "A React application that leverages Agentic AI to enhance user interactions and automate tasks.",
+    src: "/project4.png",
+    link: "agentic-ai-react-app-created-by-nirma-qureshi.vercel.app",
   },
  
 ];
